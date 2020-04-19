@@ -2,3 +2,8 @@ HI
 I am lakshmi
 welcome to github
 are u interested to learn with github
+
+
+These are the topics we have to learn
+pytho
+java
